@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wardrobe", "Wardrobe\Wardrobe.csproj", "{6EB9D3CD-D9BC-4D73-B497-2B2EA3F5614B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wardrobe.Tests", "Wardrobe.Tests\Wardrobe.Tests.csproj", "{FCCE3882-09FC-4585-98E3-2D928E162366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB9D3CD-D9BC-4D73-B497-2B2EA3F5614B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB9D3CD-D9BC-4D73-B497-2B2EA3F5614B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB9D3CD-D9BC-4D73-B497-2B2EA3F5614B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB9D3CD-D9BC-4D73-B497-2B2EA3F5614B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCCE3882-09FC-4585-98E3-2D928E162366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCE3882-09FC-4585-98E3-2D928E162366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCE3882-09FC-4585-98E3-2D928E162366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCE3882-09FC-4585-98E3-2D928E162366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A86672D9-84CC-48B0-8FEE-1AE5A526C58F}
+	EndGlobalSection
+EndGlobal
